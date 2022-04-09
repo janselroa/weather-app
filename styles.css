@@ -74,7 +74,7 @@ button img{
 }
 .temp{
     font-size: 1.7rem;
-    margin-right: 30px;
+    margin-right: 150px;
 }
 .description,.time{
     display: block;
@@ -97,5 +97,5 @@ footer{
 .error{
     display: inline;
     margin-top: 200px;
-    text-align: center;
+    font-size: 1.5rem;
 }
