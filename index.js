@@ -21,7 +21,7 @@ const background = {
     "Poco nuboso":"clouds.webp",
     "Nuboso":"nuboso.jpg",
     "Poco nuboso":"nuboso.jpg",
-    "Lluvia":"lluvia.webp",
+    "Lluvia":"llivia.webp",
     "Lluvia ligera":"rain.jpg",
 }
 const getClimate = ()=>{
